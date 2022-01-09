@@ -3,6 +3,19 @@
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
+这是[HansBug](https://github.com/HansBug/GitHub520)开的一个fork库，原库参见[521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)。内含github IP地址及大量私货，依托github/gitee平台进行自动更新。
+
+这个库可用的自动同步地址位于
+
+```text
+https://gitee.com/hansbug/GitHub520/raw/main/hosts
+```
+
+就酱。
+
+（分割线）
+
+
 
 [raw.hellogithub.com](https://raw.hellogithub.com/) 服务器续费了 3 年到 2024.12 共花了：1500+💰
 
