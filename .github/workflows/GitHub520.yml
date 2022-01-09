@@ -37,10 +37,10 @@ jobs:
     - name: commit
       id: commit
       run: |
-        git config --global user.email sunxuebangong@gmail.com
-        git config --global user.name action_bot
+        git config --global user.email hansbug@buaa.edu.cn
+        git config --global user.name action_bot_hansbug
         git add .
-        git commit -m "update readme content"
+        git commit -m "update readme content by hansbug's fork repo"
       continue-on-error: true
     - name: Check on failures
       if: steps.commit.outputs.status == 'failure'
@@ -49,3 +49,12 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Mirror the Github organization repos to Gitee
+      uses: Yikun/hub-mirror-action@master
+      with:
+        src: github/HansBug
+        dst: gitee/hansbug
+        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+        dst_token:  ${{ secrets.GITEE_TOKEN }}
+        static_list: "GitHub520"
+        force_update: true
