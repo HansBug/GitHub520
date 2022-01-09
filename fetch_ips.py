@@ -27,6 +27,7 @@ RAW_URL = [
     "github.map.fastly.net",
     "github.global.ssl.fastly.net",
     "gist.github.com",
+    "ssh.github.com",
     "github.io",
     "github.com",
     "github.blog",
