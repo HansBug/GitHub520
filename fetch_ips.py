@@ -5,13 +5,12 @@
 #   E-mail  :   595666367@qq.com
 #   Date    :   2020-05-19 15:27
 #   Desc    :   获取最新的 GitHub 相关域名对应 IP
+import json
 import os
 import re
-import json
 import traceback
-
-from datetime import datetime, timezone, timedelta
 from collections import Counter
+from datetime import datetime, timezone, timedelta
 
 import requests
 from retry import retry
@@ -53,7 +52,18 @@ RAW_URL = [
     "github.dev",
     "media.githubusercontent.com",
     "cloud.githubusercontent.com",
-    "objects.githubusercontent.com"]
+    "objects.githubusercontent.com",
+
+    "sourceforge.net",
+    "dl.sourceforge.net",
+    "phoenixnap.dl.sourceforge.net",
+
+    "stackoverflow.com",
+
+    "google.com",
+    "google.com.ar",
+    "scholar.google.com",
+]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
 
