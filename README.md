@@ -3,6 +3,19 @@
   <img src="https://cdn.jsdelivr.net/gh/521xueweihan/img_logo@main/logo/readme.gif"/>
   <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
 </p>
+这是 [HansBug](https://github.com/HansBug/) 开的一个fork库，原库参见 [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520/) 。内含github IP地址及大量私货，依托github/gitee平台进行自动更新。
+
+这个库可用的自动同步地址位于
+
+```text
+https://gitee.com/hansbug/GitHub520/raw/main/hosts
+```
+
+就酱。
+
+（分割线）
+
+
 
 [raw.hellogithub.com](https://raw.hellogithub.com/) 服务器续费了 3 年到 2024.12 共花了：1500+💰
 
@@ -52,7 +65,7 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.112.9                  codeload.github.com
-52.217.174.25                 github-cloud.s3.amazonaws.com
+54.231.140.113                github-cloud.s3.amazonaws.com
 52.217.168.49                 github-com.s3.amazonaws.com
 52.217.134.89                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.199.249                github-production-user-asset-6210df.s3.amazonaws.com
@@ -65,14 +78,14 @@
 185.199.108.133               objects.githubusercontent.com
 
 
-# Update time: 2022-01-09T11:34:01+08:00
+# Update time: 2022-01-09T11:50:33+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-01-09T11:34:01+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-01-09T11:50:33+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
