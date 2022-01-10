@@ -37,7 +37,7 @@ jobs:
     - name: commit
       id: commit
       run: |
-        git config --global user.email hansbug@buaa.edu.cn
+        git config --global user.email sunxuebangong@gmail.com
         git config --global user.name action_bot_hansbug
         git add .
         git commit -m "update readme content by hansbug's fork repo"
