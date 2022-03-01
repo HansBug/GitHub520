@@ -59,8 +59,8 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 185.199.108.133               favicons.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
-199.232.68.133                avatars3.githubusercontent.com
-199.232.68.133                avatars2.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
@@ -75,7 +75,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 23.100.27.125                 github.dev
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
-199.232.68.133                objects.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 104.18.10.128                 sourceforge.net
 216.34.181.138                dl.sourceforge.net
 184.164.141.26                phoenixnap.dl.sourceforge.net
@@ -85,14 +85,14 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 142.250.190.4                 scholar.google.com
 
 
-# Update time: 2022-03-02T02:21:06+08:00
+# Update time: 2022-03-02T04:19:19+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-03-02T02:21:06+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-03-02T04:19:19+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
