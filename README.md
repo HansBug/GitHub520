@@ -65,7 +65,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.113.9                  codeload.github.com
-52.217.138.9                  github-cloud.s3.amazonaws.com
+54.231.197.129                github-cloud.s3.amazonaws.com
 54.231.141.9                  github-com.s3.amazonaws.com
 52.217.99.156                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.109.203                github-production-user-asset-6210df.s3.amazonaws.com
@@ -80,19 +80,19 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 216.34.181.138                dl.sourceforge.net
 184.164.141.26                phoenixnap.dl.sourceforge.net
 151.101.1.69                  stackoverflow.com
-172.217.1.110                 google.com
+172.217.2.46                  google.com
 142.250.190.99                google.com.ar
 142.250.190.36                scholar.google.com
 
 
-# Update time: 2022-04-06T02:22:35+08:00
+# Update time: 2022-04-06T04:20:47+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-06T02:22:35+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-06T04:20:47+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
