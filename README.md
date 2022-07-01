@@ -39,7 +39,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-140.82.112.26                 alive.github.com
+140.82.113.26                 alive.github.com
 140.82.114.25                 live.github.com
 185.199.108.154               github.githubassets.com
 140.82.113.21                 central.github.com
@@ -53,7 +53,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 185.199.108.153               github.io
 140.82.114.3                  github.com
 192.0.66.2                    github.blog
-140.82.112.5                  api.github.com
+140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
@@ -64,8 +64,8 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
-52.216.171.147                github-cloud.s3.amazonaws.com
+140.82.112.9                  codeload.github.com
+52.216.30.76                  github-cloud.s3.amazonaws.com
 52.217.110.172                github-com.s3.amazonaws.com
 52.217.139.33                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.140.204                github-production-user-asset-6210df.s3.amazonaws.com
@@ -80,19 +80,19 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 216.34.181.138                dl.sourceforge.net
 184.164.141.26                phoenixnap.dl.sourceforge.net
 151.101.1.69                  stackoverflow.com
-142.251.32.14                 google.com
+142.250.190.110               google.com
 142.250.191.163               google.com.ar
 142.251.32.4                  scholar.google.com
 
 
-# Update time: 2022-07-01T14:25:50+08:00
+# Update time: 2022-07-01T16:25:47+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-01T14:25:50+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-07-01T16:25:47+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
