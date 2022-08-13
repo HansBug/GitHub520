@@ -1,7 +1,7 @@
 # GitHub520 Host Start
 140.82.113.4                  alive.github.com
 140.82.113.4                  live.github.com
-52.90.79.160                  github.githubassets.com
+54.242.18.15                  github.githubassets.com
 140.82.113.4                  central.github.com
 140.82.112.4                  desktop.githubusercontent.com
 140.82.113.4                  assets-cdn.github.com
@@ -11,9 +11,9 @@
 140.82.113.4                  gist.github.com
 140.82.113.4                  ssh.github.com
 185.199.108.153               github.io
-140.82.113.4                  github.com
+140.82.113.3                  github.com
 192.0.66.2                    github.blog
-140.82.113.4                  api.github.com
+140.82.113.3                  api.github.com
 140.82.112.4                  raw.githubusercontent.com
 140.82.112.4                  user-images.githubusercontent.com
 140.82.112.4                  favicons.githubusercontent.com
@@ -24,7 +24,7 @@
 140.82.112.4                  avatars1.githubusercontent.com
 140.82.112.4                  avatars0.githubusercontent.com
 140.82.112.4                  avatars.githubusercontent.com
-140.82.113.4                  codeload.github.com
+140.82.113.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -41,11 +41,11 @@
 172.64.153.13                 phoenixnap.dl.sourceforge.net
 151.101.1.69                  stackoverflow.com
 172.217.14.174                google.com
-18.234.178.1                  google.com.ar
+34.227.31.15                  google.com.ar
 172.217.14.174                scholar.google.com
 
 
-# Update time: 2022-08-13T18:20:54+08:00
+# Update time: 2022-08-13T20:33:34+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
