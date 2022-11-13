@@ -40,17 +40,17 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 ```bash
 # GitHub520 Host Start
 142.251.45.14                 google.com
-54.226.6.122                  google.com.ar
+35.89.242.229                 google.com.ar
 
 
-# Update time: 2022-11-13T22:18:12+08:00
+# Update time: 2022-11-14T00:29:22+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-13T22:18:12+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T00:29:22+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
