@@ -39,18 +39,23 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-104.18.10.128                 sourceforge.net
-172.253.113.100               google.com
+140.82.112.4                  alive.github.com
+185.199.108.153               github.io
+192.0.66.2                    github.blog
+185.199.108.153               githubstatus.com
+140.82.112.18                 github.community
+52.224.38.193                 github.dev
+54.158.143.160                google.com.ar
 
 
-# Update time: 2022-11-17T12:24:40+08:00
+# Update time: 2022-11-17T14:24:50+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-17T12:24:40+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-17T14:24:50+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
