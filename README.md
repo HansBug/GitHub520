@@ -41,7 +41,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # GitHub520 Host Start
 140.82.112.3                  alive.github.com
 140.82.112.3                  live.github.com
-18.212.233.19                 github.githubassets.com
+34.215.11.91                  github.githubassets.com
 140.82.112.3                  central.github.com
 151.101.84.133                desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
@@ -78,18 +78,17 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 151.101.84.133                objects.githubusercontent.com
 151.101.1.69                  stackoverflow.com
 172.253.62.100                google.com
-52.90.234.54                  google.com.ar
 172.253.62.100                scholar.google.com
 
 
-# Update time: 2022-11-28T18:20:24+08:00
+# Update time: 2022-11-28T20:35:32+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-28T18:20:24+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-28T20:35:32+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
