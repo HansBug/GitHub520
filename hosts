@@ -1,7 +1,7 @@
 # GitHub520 Host Start
 140.82.114.3                  alive.github.com
 140.82.114.3                  live.github.com
-34.218.209.1                  github.githubassets.com
+54.91.37.202                  github.githubassets.com
 140.82.114.3                  central.github.com
 185.199.108.133               desktop.githubusercontent.com
 140.82.114.3                  assets-cdn.github.com
@@ -36,13 +36,16 @@
 185.199.108.133               media.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
+104.18.10.128                 sourceforge.net
+104.18.10.128                 dl.sourceforge.net
+104.18.10.128                 phoenixnap.dl.sourceforge.net
 151.101.1.69                  stackoverflow.com
 172.253.112.100               google.com
-35.87.2.82                    google.com.ar
+3.231.224.102                 google.com.ar
 172.253.112.100               scholar.google.com
 
 
-# Update time: 2022-12-05T00:23:14+08:00
+# Update time: 2022-12-05T02:19:32+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
