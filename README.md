@@ -41,11 +41,11 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # GitHub520 Host Start
 140.82.112.3                  alive.github.com
 140.82.112.3                  live.github.com
-3.235.140.92                  github.githubassets.com
+3.235.22.51                   github.githubassets.com
 140.82.112.3                  central.github.com
-54.145.243.51                 desktop.githubusercontent.com
+54.146.1.202                  desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
-54.198.69.219                 camo.githubusercontent.com
+34.239.163.218                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
@@ -54,16 +54,16 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 140.82.112.3                  github.com
 192.0.66.2                    github.blog
 140.82.112.3                  api.github.com
-3.214.215.131                 raw.githubusercontent.com
-18.215.154.164                user-images.githubusercontent.com
-3.83.48.119                   favicons.githubusercontent.com
-54.160.239.191                avatars5.githubusercontent.com
-3.236.201.59                  avatars4.githubusercontent.com
-54.237.187.186                avatars3.githubusercontent.com
-54.226.252.186                avatars2.githubusercontent.com
-44.202.160.99                 avatars1.githubusercontent.com
-54.89.154.185                 avatars0.githubusercontent.com
-34.230.44.201                 avatars.githubusercontent.com
+107.21.137.20                 raw.githubusercontent.com
+54.86.206.228                 user-images.githubusercontent.com
+3.229.135.0                   favicons.githubusercontent.com
+3.226.122.11                  avatars5.githubusercontent.com
+54.92.194.246                 avatars4.githubusercontent.com
+18.234.159.193                avatars3.githubusercontent.com
+3.229.135.0                   avatars2.githubusercontent.com
+44.210.121.239                avatars1.githubusercontent.com
+54.145.243.51                 avatars0.githubusercontent.com
+54.152.215.65                 avatars.githubusercontent.com
 140.82.112.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -73,9 +73,9 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
 52.224.38.193                 github.dev
-107.21.137.20                 media.githubusercontent.com
-3.90.249.91                   cloud.githubusercontent.com
-3.235.101.92                  objects.githubusercontent.com
+44.200.146.232                media.githubusercontent.com
+44.200.54.3                   cloud.githubusercontent.com
+54.86.206.228                 objects.githubusercontent.com
 104.18.10.128                 sourceforge.net
 104.18.10.128                 dl.sourceforge.net
 104.18.10.128                 phoenixnap.dl.sourceforge.net
@@ -85,14 +85,14 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 142.250.11.100                scholar.google.com
 
 
-# Update time: 2023-01-02T09:18:29+08:00
+# Update time: 2023-01-02T10:38:26+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-02T09:18:29+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-02T10:38:26+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
