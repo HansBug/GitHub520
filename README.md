@@ -65,18 +65,18 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 104.18.10.128                 dl.sourceforge.net
 104.18.10.128                 phoenixnap.dl.sourceforge.net
 151.101.1.69                  stackoverflow.com
-142.250.191.174               google.com
-142.250.191.174               scholar.google.com
+142.250.191.142               google.com
+142.250.191.142               scholar.google.com
 
 
-# Update time: 2023-04-10T10:30:15+08:00
+# Update time: 2023-04-10T16:20:52+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-10T10:30:15+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-10T16:20:52+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
