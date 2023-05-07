@@ -63,6 +63,8 @@ RAW_URL = [
     "google.com",
     "google.com.ar",
     "scholar.google.com",
+    "huggingface.co",
+    "hf.co",
 ]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
