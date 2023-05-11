@@ -68,6 +68,7 @@ RAW_URL = [
     
     "i.pximg.net",
     "pixiv.net",
+    "www.pixiv.net",
     "app-api.pixivlite.com",
     "app-api.pixiv.net",
     "oauth.secure.pixiv.net",
