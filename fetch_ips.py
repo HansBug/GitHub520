@@ -65,6 +65,12 @@ RAW_URL = [
     "scholar.google.com",
     "huggingface.co",
     "hf.co",
+    
+    "i.pximg.net",
+    "pixiv.net",
+    "app-api.pixivlite.com",
+    "app-api.pixiv.net",
+    "oauth.secure.pixiv.net",
 ]
 
 IPADDRESS_PREFIX = ".ipaddress.com"
