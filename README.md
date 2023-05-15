@@ -48,12 +48,9 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.4                  gist.github.com
 140.82.112.4                  ssh.github.com
-185.199.108.153               github.io
 140.82.112.4                  github.com
-192.0.66.2                    github.blog
 140.82.112.4                  api.github.com
 140.82.112.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -67,7 +64,6 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 151.101.1.69                  stackoverflow.com
 142.250.191.142               google.com
 142.250.191.142               scholar.google.com
-108.156.201.8                 huggingface.co
 210.140.92.141                i.pximg.net
 210.140.92.180                pixiv.net
 210.140.92.180                www.pixiv.net
@@ -75,14 +71,14 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 210.140.92.180                oauth.secure.pixiv.net
 
 
-# Update time: 2023-05-15T20:34:08+08:00
+# Update time: 2023-05-15T22:25:42+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-15T20:34:08+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-15T22:25:42+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
