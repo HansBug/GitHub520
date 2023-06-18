@@ -66,7 +66,7 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 151.101.1.69                  stackoverflow.com
 142.251.167.100               google.com
 142.251.167.100               scholar.google.com
-18.160.249.9                  huggingface.co
+108.138.64.67                 huggingface.co
 3.210.66.237                  hf.co
 210.140.92.141                i.pximg.net
 210.140.92.180                pixiv.net
@@ -76,14 +76,14 @@ https://gitee.com/hansbug/GitHub520/raw/main/hosts
 210.140.92.180                oauth.secure.pixiv.net
 
 
-# Update time: 2023-06-18T14:21:43+08:00
+# Update time: 2023-06-18T16:18:58+08:00
 # Update url: https://gitee.com/hansbug/GitHub520/raw/main/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-18T14:21:43+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-18T16:18:58+08:00（内容无变动不会更新）
 
 - 文件：`https://raw.hellogithub.com/hosts`
 - JSON：`https://raw.hellogithub.com/hosts.json`
